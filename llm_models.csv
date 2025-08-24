@@ -1,0 +1,9 @@
+Model,Developer,Parameters (B),Release Year,Training Data (Tokens B),MMLU Score (%),Notes
+GPT-3,OpenAI,175,2020,500,43,First widely known large-scale transformer
+GPT-4,OpenAI,1000+,2023,Unknown,86,Multimodal reasoning
+LLaMA 2 7B,Meta,7,2023,2000,68,Efficient open model
+LLaMA 2 70B,Meta,70,2023,2000,78,Strong open-source alternative
+Claude 2,Anthropic,?,2023,Unknown,75,Focus on alignment
+PaLM 2,Google,340,2023,Unknown,74,Powering Bard AI
+Mistral 7B,Mistral AI,7,2023,1500,71,Strong small open-source model
+Falcon 40B,Technology Innovation Institute,40,2023,1000,65,Optimized for efficiency
